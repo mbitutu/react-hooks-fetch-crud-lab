@@ -20,6 +20,6 @@ function QuestionItem({ question }) {
       <button>Delete Question</button>
     </li>
   );
-}
+};
 
 export default QuestionItem;

@@ -7,6 +7,6 @@ function QuestionList() {
       <ul>{/* display QuestionItem components here after fetching */}</ul>
     </section>
   );
-}
+};
 
 export default QuestionList;

@@ -88,6 +88,6 @@ function QuestionForm(props) {
       </form>
     </section>
   );
-}
+};
 
 export default QuestionForm;
